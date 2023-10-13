@@ -125,3 +125,10 @@ print(results)
 ```
 
 - Explore the details of the matched items and their confidence scores.
+
+## Cost :
+![costimage](cost.png)
+
+
+
+
